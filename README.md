@@ -25,13 +25,12 @@
 
 #### - 👨‍💻 Currently working on Flutter & Java
 
-#### - 🎇 Future Plan -> Machine Learning & Data Science
-
-#### - 💬 Connect? Here 👉🏼[<img src="https://user-images.githubusercontent.com/61178058/87569067-0d84c380-c6e0-11ea-8cb9-a3380a37a680.png" >](https://instagram/SharjeelYunus/)
+#### - 🎇 Plan -> FullStack Web Development
 
 <br />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sharjeelyunus&show_icons=true&title_color=824DA6&icon_color=824DA6)](https://github.com/anuraghazra/github-readme-stats)
+[![Sharjeel's github stats](https://github-readme-stats.vercel.app/api?username=sharjeelyunus&show_icons=true&title_color=824DA6&icon_color=824DA6)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharjeelyunus&hide=TeX&layout=compact)
 
 
 ---
