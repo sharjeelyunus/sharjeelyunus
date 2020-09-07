@@ -29,8 +29,8 @@
 
 <br />
 
-[![Sharjeel's github stats](https://github-readme-stats.vercel.app/api?username=sharjeelyunus&show_icons=true&title_color=824DA6&icon_color=824DA6)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharjeelyunus&hide=TeX&layout=compact)
+[![Sharjeel's github stats](https://github-readme-stats.vercel.app/api?username=sharjeelyunus&show_icons=true&title_color=824DA6&icon_color=824DA6&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharjeelyunus&hide=TeX&layout=compact&theme=tokyonight&title_color=824DA6&icon_color=824DA6)
 
 
 ---
