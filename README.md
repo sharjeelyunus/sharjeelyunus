@@ -11,9 +11,9 @@
 #### - 🎨 Hobbies: Graphic Design and Vector Illustrations
 
 <br />
-<center>
 
-[![Sharjeel's github stats](https://github-readme-stats.vercel.app/api?username=sharjeelyunus&show_icons=true&title_color=824DA6&icon_color=824DA6&theme=tokyonight)]
+
+![Sharjeel's github stats](https://github-readme-stats.vercel.app/api?username=sharjeelyunus&show_icons=true&title_color=824DA6&icon_color=824DA6&theme=tokyonight)
 
 ![Sharjeel's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharjeelyunus&hide=TeX&layout=compact&theme=tokyonight&title_color=824DA6&icon_color=824DA6)
 
@@ -21,8 +21,10 @@
 ---
 
 <br />
+<div style="text-align:center">
+<center>
 
-## - Languages & Tools 👨‍💻
+### - Languages & Tools 👨‍💻
 
 <p>
 
@@ -38,7 +40,7 @@
 </p>
 
 
-## - Social Profiles 
+### - Social Profiles 
 
 <a href="https://twitter.com/sharjeelyunus" target="_blank">
   <img alt="@SharjeelYunus | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
@@ -49,9 +51,10 @@
 <a href="https://www.facebook.com/sharjeelyunus1" target="_blank">
   <img  alt="@Sharjeel Yunus | Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/justEhmadSaeed" target="_blank">
-  <img alt="@justEhmadSaeed | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://www.instagram.com/sharjeel_arts" target="_blank">
+  <img alt="Sharjeel Yunus | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 ![](https://komarev.com/ghpvc/?username=sharjeelyunus&color=blueviolet&label=Profile+Views)
 </center>
+</div>
